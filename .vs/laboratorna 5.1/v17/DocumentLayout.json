@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\programming\\laboratorna 5.1\\laboratorna 5.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{415D0654-893F-480B-AD05-82697B173433}|UnitTest1\\UnitTest1.vcxproj|D:\\programming\\laboratorna 5.1\\laboratorna 5.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{415D0654-893F-480B-AD05-82697B173433}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2438EEA4-B7E9-44C6-A304-62D282200368}|laboratorna 5.1.vcxproj|D:\\programming\\laboratorna 5.1\\laboratorna 5.1\\lab 5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2438EEA4-B7E9-44C6-A304-62D282200368}|laboratorna 5.1.vcxproj|solutionrelative:lab 5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\programming\\laboratorna 5.1\\laboratorna 5.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\programming\\laboratorna 5.1\\laboratorna 5.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T18:24:15.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "lab 5.1.cpp",
               "DocumentMoniker": "D:\\programming\\laboratorna 5.1\\laboratorna 5.1\\lab 5.1.cpp",
               "RelativeDocumentMoniker": "lab 5.1.cpp",
